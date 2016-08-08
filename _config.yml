@@ -1,4 +1,3 @@
-layout_spectrum: 0.9854662909638137
 typography_spectrum: 0.00169677147641778
 color:
   brandStrength: 0.8090038651134819
@@ -11,5 +10,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.9854662909638137
 name: Griffin Smith
+title: Griffin Smith
 description: Yo
